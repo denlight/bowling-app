@@ -19,5 +19,5 @@ Create your app in src diretory.
 
 Commands:
 
- - `npm start` - run developer server in port 9000
- - `npm test` - run the tests
+ - `npm start` - run dev-server on port 9000 then navigate to http://localhost:9000
+ - `npm test` - run tests
