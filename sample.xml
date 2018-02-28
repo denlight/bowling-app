@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Clients>
+    <Client>
+        <ID>1</ID>
+        <FirstName>Denys</FirstName>
+        <LastName>Fedotov</LastName>
+        <Birthday>9 Jul 1984</Birthday>
+        <SSN>112121232</SSN>
+        <City>Lehi</City>
+        <State>UT</State>
+    </Client>
+    <Client>
+        <ID>2</ID>
+        <FirstName>John</FirstName>
+        <LastName>McDonalds</LastName>
+        <Birthday>9 Jul 1984</Birthday>
+        <SSN>112121232</SSN>
+        <City>Midvale</City>
+        <State>UT</State>
+    </Client>
+    <Client>
+        <ID>3</ID>
+        <FirstName>Mark</FirstName>
+        <LastName>Smith</LastName>
+        <Birthday>9 Jul 1984</Birthday>
+        <SSN>112121232</SSN>
+        <City>Orem</City>
+        <State>UT</State>
+    </Client>
+    <Client>
+        <ID>4</ID>
+        <FirstName>Stacey</FirstName>
+        <LastName>Dow</LastName>
+        <Birthday>9 Jul 1984</Birthday>
+        <SSN>112121232</SSN>
+        <City>Provo</City>
+        <State>UT</State>
+    </Client>
+    <Client>
+        <ID>5</ID>
+        <FirstName>Luke</FirstName>
+        <LastName>Skywalker</LastName>
+        <Birthday>9 Jul 1984</Birthday>
+        <SSN>112121232</SSN>
+        <City>Salt Lake City</City>
+        <State>UT</State>
+    </Client>
+    <Client>
+        <ID>6</ID>
+        <FirstName>Art</FirstName>
+        <LastName>Cole</LastName>
+        <Birthday>9 Jul 1984</Birthday>
+        <SSN>112121232</SSN>
+        <City>Lehi</City>
+        <State>UT</State>
+    </Client>
+    <Client>
+        <ID>7</ID>
+        <FirstName>Jeorge</FirstName>
+        <LastName>Harison</LastName>
+        <Birthday>9 Jul 1984</Birthday>
+        <SSN>112121232</SSN>
+        <City>Ney York</City>
+        <State>NY</State>
+    </Client>
+</Clients>
